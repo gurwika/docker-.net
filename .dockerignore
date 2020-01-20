@@ -1,0 +1,6 @@
+appsettings.Development.json
+Dockerfile
+.dockerignore
+.vscode
+bin/
+obj/
